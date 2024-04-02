@@ -11,7 +11,7 @@ kriteria
 	Nilai minimal 80
 	Kesehatan (sehat / tidak sehat)
 Jika peserta memenuhi kriteria tersebut, program akan mencetak nama,umur,pendidikan,nila,kesehatan dan hasil peserta tersebut memenuhi syarat untuk menjadi peserta cpns , jika tidak, program akan mencetak pesan yang sesuai.
-Berikut codingannya:
+
 
 
 
